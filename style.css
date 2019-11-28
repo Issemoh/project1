@@ -65,6 +65,10 @@ ul{
     border: 2px solid blue;
     background-color:grey;
     margin-left: 2em;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Arvo', serif;
 }
 .boxmain ul{
     margin-top: 389px;
